@@ -16,6 +16,11 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+![CleanShot 2024-03-16 at 14 04 36@2x](https://github.com/jizhi0v0/imessage-clone-nextjs/assets/57976101/045c4855-4dbb-479e-90ce-c991c25cbcc7)
+
+![CleanShot 2024-03-16 at 14 04 56@2x](https://github.com/jizhi0v0/imessage-clone-nextjs/assets/57976101/d2a97fb0-5805-41ca-af63-4a77163d56ac)
+
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
